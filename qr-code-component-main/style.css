@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: #D5E1EF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding-left: 20%;
+}
+
+
+.container {
+    background-color: white;
+    padding: 1.5rem;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 320px;
+}
+
+
+.container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+
